@@ -1,2 +1,6 @@
 # sound-localization
 Sound-source localization software using Octave and Gstreamer.
+The software was tested using Octave 6.4.0 on Kubuntu 22.04
+Be sure to instal these packages:
+gstreamer1.0-tools
+gstreamer1.0-alsa
