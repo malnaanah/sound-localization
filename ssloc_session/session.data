@@ -1,0 +1,15 @@
+# Created by Octave 6.4.0, Mon Sep 19 11:51:30 2022 EEST <mahmoud@mahmoud-TAGTECH>
+# name: mic_spc
+# type: matrix
+# rows: 1
+# columns: 6
+ 0.24812812500000003 0.24812812499999981 0.22686000000000006 0.36864750000000002 0.34028999999999998 0.33320062500000003
+
+
+# name: latency
+# type: matrix
+# rows: 1
+# columns: 3
+ 3.3958106250000002 3.4170787499999999 3.4099893750000003
+
+
