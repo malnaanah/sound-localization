@@ -20,7 +20,7 @@ f= [0,0,0];
 theta_yh = userdata.theta(1);
 theta_zv = userdata.theta(2);
 #theta_zh = -userdata.theta(3);
-theta_zh = -userdata.theta(3);
+theta_zh = userdata.theta(3);
 
 f(1) = sqrt( pnt(1)^2+pnt(2)^2+pnt(3)^2) - sqrt( (pnt(1) -c(1))^2+pnt(2)^2+pnt(3)^2) - a(1);
 
